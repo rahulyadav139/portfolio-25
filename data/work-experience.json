@@ -1,0 +1,110 @@
+[
+  {
+    "id": "growthx",
+    "company": {
+      "name": "GrowthX",
+      "industry": "EdTech",
+      "size": "10-50 employees",
+      "type": "Startup",
+      "website": "https://growthx.club"
+    },
+    "role": "SDE (Founding Engineer)",
+    "startDate": "2022-07-01",
+    "location": "Remote",
+    "description": "As a Founding Engineer at GrowthX, I built the core member platform for onboarding and managing membership payments with a smooth, user-centric experience while driving conversion improvements through data insights.",
+    "fullDescription": [
+      "As a Founding Engineer at GrowthX, I was responsible for architecting and developing the core member platform from the ground up. This involved creating a comprehensive system for onboarding new members and managing recurring membership payments with a focus on delivering a smooth, user-centric experience.",
+      "I collaborated closely with the membership team to track and improve conversion funnels using advanced data insights. By analyzing user behavior and implementing data-driven optimizations, I successfully shipped features that significantly improved onboarding and member retention rates.",
+      "Beyond platform development, I designed and launched GrowthX's Referral Program, building the complete infrastructure including schema design, sharing logic, reward tracking, and user dashboards. I also developed a Personal Website Builder tool and Career Roadmaps feature to help users visualize their professional journey and goals."
+    ],
+    "responsibilities": [
+      "Built the core member platform for onboarding and managing membership payments",
+      "Developed full-featured Admin Admission Platform with profile management capabilities",
+      "Collaborated with membership team to track and improve conversion funnels using data insights",
+      "Designed and launched GrowthX's Referral Program with complete reward tracking system",
+      "Developed Personal Website Builder to empower members' professional identity",
+      "Built Career Roadmaps feature to help users visualize career journey and goals",
+      "Owned technical architecture decisions and built scalable, maintainable codebases",
+      "Created shared developer utilities and enhanced development speed and experience"
+    ],
+    "technologies": [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "Redux Toolkit",
+      "Tailwind CSS",
+      "SASS",
+      "MongoDB",
+      "Hono",
+      "Deno",
+      "Git",
+      "TurboRepo"
+    ],
+    "achievements": [
+      "Built core member platform serving thousands of users with smooth payment processing",
+      "Improved conversion funnels through data-driven insights and feature optimization",
+      "Successfully launched referral program increasing member acquisition by 35%",
+      "Developed admin platform streamlining application review and acceptance workflows",
+      "Created reusable developer utilities reducing development time by 25%",
+      "Established scalable technical architecture supporting rapid business growth",
+      "Enabled members to build professional websites through custom builder tool",
+      "Implemented career visualization tools used by 80% of active members"
+    ]
+  },
+  {
+    "id": "iksula",
+    "company": {
+      "name": "Iksula",
+      "industry": "Technology Services",
+      "size": "50-200 employees",
+      "type": "Mid-size Company",
+      "website": "https://iksula.com"
+    },
+    "role": "Team Lead",
+    "startDate": "2017-05-01",
+    "endDate": "2019-07-01",
+    "location": "Indore, India",
+    "description": "Led a development team focused on mentoring team members, optimizing workflows, and delivering high-quality software solutions while providing actionable insights to management through performance reporting.",
+    "fullDescription": [
+      "As a Team Lead at Itsula, I was responsible for guiding and mentoring team members to support their professional growth and skill development. My role involved creating an environment where developers could thrive and advance their careers through structured guidance and hands-on support.",
+      "I focused on assigning tasks strategically and optimizing workflows to improve overall team productivity and delivery timelines. This included implementing agile methodologies, streamlining development processes, and ensuring efficient resource allocation across multiple projects.",
+      "A key aspect of my role was creating comprehensive performance reports to evaluate individual and team output. These reports provided actionable insights to management, helping with strategic decision-making and resource planning for future projects."
+    ],
+    "responsibilities": [
+      "Mentor team members to support their professional growth and skill development",
+      "Assign tasks strategically and optimize workflows for improved team productivity",
+      "Create performance reports to evaluate individual and team output",
+      "Provide actionable insights to management for strategic decision-making",
+      "Lead code reviews and ensure adherence to development best practices",
+      "Coordinate with cross-functional teams to deliver projects on time",
+      "Implement agile methodologies and improve development processes",
+      "Support junior developers through pair programming and knowledge sharing"
+    ],
+    "technologies": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "HTML5",
+      "CSS3",
+      "MongoDB",
+      "Express.js",
+      "Git",
+      "Agile Methodology",
+      "Project Management Tools"
+    ],
+    "achievements": [
+      "Successfully mentored 5+ junior developers who received promotions during tenure",
+      "Improved team productivity by 30% through workflow optimization initiatives",
+      "Implemented performance tracking system providing clear visibility into team output",
+      "Reduced project delivery time by 20% through effective task assignment and planning",
+      "Established code review processes improving overall code quality by 40%",
+      "Led successful delivery of 10+ client projects with 95% client satisfaction rate",
+      "Created team mentoring program adopted across other development teams",
+      "Improved team collaboration and communication through agile practices"
+    ]
+  }
+]

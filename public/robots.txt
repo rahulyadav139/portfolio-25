@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://rahulyadav.dev/sitemap.xml
+
+# Disallow private areas
+Disallow: /projects
+Disallow: /projects/
+Disallow: /contact
+Disallow: /work
+Disallow: /work/
+

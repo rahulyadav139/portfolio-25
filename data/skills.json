@@ -1,0 +1,30 @@
+{
+  "frontend": [
+    "JavaScript",
+    "TypeScript",
+    "Vite",
+    "NextJs",
+    "RemixJs",
+    "Redux Toolkit",
+    "Tanstack Query"
+  ],
+  "backend": [
+    "NodeJs",
+    "Express",
+    "Hono",
+    "Deno",
+    "MongoDB",
+    "PostgreSQL",
+    "RestAPI",
+    "GraphQL"
+  ],
+  "styles": ["CSS", "TailwindCSS", "StyleX", "ShadcnUI", "MaterialUI"],
+  "tools": [
+    "Git",
+    "Docker",
+    "CI/CD",
+    "GitLab CI",
+    "GitHub Actions",
+    "GitLab CI"
+  ]
+}
