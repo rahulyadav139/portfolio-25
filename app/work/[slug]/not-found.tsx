@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { ArrowLeft, Home } from 'lucide-react';
 import Link from 'next/link';
-import Footer from '@/components/footer';
+import { Footer } from '@/components/footer';
 
 export default function WorkNotFound() {
   return (
