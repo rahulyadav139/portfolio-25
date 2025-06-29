@@ -1,5 +1,4 @@
 import { ArrowRight } from 'lucide-react';
-// import Link from 'next/link';
 import socialLinks from '@/data/social-links';
 import { IconButton } from './icon-button';
 
@@ -18,17 +17,10 @@ export const HeroSection = () => {
             href="/contact"
             label="Contact"
             classNames={{
-              label: 'px-20 font-fira-code italic font-medium',
+              label: 'px-20 font-fira-code italic font-medium md:w-auto w-full',
+              root: 'md:w-auto w-full',
             }}
           />
-          {/* <Link href="/contact" className="flex">
-            <span className="font-fira-code italic flex items-center justify-center gap-2 px-20 border border-muted-foreground/30 rounded-full translate-x-[10px]">
-              Contact
-            </span>
-            <span className="flex items-center justify-center gap-2 bg-foreground text-background size-12 rounded-full z-1">
-              <ArrowRight className="w-5 h-5" />
-            </span>
-          </Link> */}
         </div>
         <div className="order-1 md:order-none text-xl md:text-xl text-muted-foreground py-4">
           I build user interfaces that marry creativity with performance,

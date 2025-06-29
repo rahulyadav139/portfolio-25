@@ -28,7 +28,7 @@ export const AboutSection = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-[2fr_1fr] gap-24 items-start">
+        <div className="grid lg:grid-cols-[2fr_1fr] gap-16 md:gap-24 items-start">
           {/* Left Side - About Header and Skills */}
           <div className="space-y-8">
             {/* Skills Grid */}
@@ -80,9 +80,7 @@ export const AboutSection = () => {
           </div>
 
           {/* Right Side - Introduction and Photo */}
-          <div className="h-full">
-            {/* Developer Photo */}
-            {/* <div className="flex justify-end"> */}
+          <div className="md:h-full h-92 ">
             <Card className="bg-card rounded-3xl border-border overflow-hidden w-full h-full">
               <CardContent className="p-0 h-full relative">
                 <Image
@@ -93,7 +91,6 @@ export const AboutSection = () => {
                 />
               </CardContent>
             </Card>
-            {/* </div> */}
           </div>
         </div>
       </div>
