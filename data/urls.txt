@@ -1,0 +1,47 @@
+Project Name: palasio-quiz-app
+
+    🔗 Live: https://palasio-quiz-app.vercel.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-quiz-app
+
+Project Name: palasio-designs
+
+    🔗 Live: https://palasio-designs.netlify.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-designs
+
+Project Name: palasio-bank
+
+    🔗 Live: https://palasio-bank.netlify.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-bank
+
+Project Name: social-links
+
+    🔗 Live: https://social-links-green.vercel.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/social-links
+
+Project Name: palasio-lane
+
+    🔗 Live: https://palasio-lane.netlify.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-lane
+
+Project Name: palasio-connect
+
+    🔗 Live: https://palasio-connect.netlify.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-connect/tree/dev
+
+Project Name: palasio-reviews
+
+    🔗 Live: https://palasio-reviews.netlify.app/
+
+    💻 GitHub: https://github.com/rahulyadav139/palasio-reviews/tree/dev
+
+Project Name: barrel-exporter
+
+    🔗 Live: https://www.npmjs.com/package/barrel-exporter
+
+    💻 GitHub: https://github.com/rahulyadav139/barrel-exporter

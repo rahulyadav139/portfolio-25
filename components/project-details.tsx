@@ -1,3 +1,5 @@
+'use client';
+
 import { ArrowLeft } from 'lucide-react';
 import { Footer } from './footer';
 import Link from 'next/link';
@@ -8,24 +10,26 @@ import { CardContent } from './ui/card';
 import { Button } from './ui/button';
 import { ExternalLink } from 'lucide-react';
 import { FiGithub } from 'react-icons/fi';
+import { useRouter } from 'next/navigation';
 
 interface ProjectDetailsProps {
   project: Project;
 }
 
 export const ProjectDetails = ({ project }: ProjectDetailsProps) => {
+  const router = useRouter();
   return (
     <main className="min-h-screen bg-background pt-20">
       <div className="max-w-7xl mx-auto px-6 py-12">
         {/* Back Navigation */}
         <div className="mb-8">
-          <Link
-            href="/#projects"
-            className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
+          <button
+            onClick={() => router.back()}
+            className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
           >
             <ArrowLeft className="w-4 h-4" />
-            Back to Projects
-          </Link>
+            Back
+          </button>
         </div>
 
         {/* Project Header */}

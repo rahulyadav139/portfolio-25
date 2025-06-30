@@ -195,7 +195,7 @@ export const Contact = () => {
                   <Button
                     type="submit"
                     disabled={status === 'loading'}
-                    className={`cursor-pointer rounded-md transition-colors ${
+                    className={`cursor-pointer rounded-lg transition-colors ${
                       status === 'loading'
                         ? 'bg-muted cursor-not-allowed'
                         : 'bg-foreground text-background hover:bg-foreground/80'

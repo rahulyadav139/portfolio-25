@@ -15,8 +15,8 @@
       "Account Management"
     ],
     "slug": "palasio-bank",
-    "url": "https://palasio-bank.vercel.app/",
-    "github": "https://github.com/your-username/palasio-bank",
+    "url": "https://palasio-bank.netlify.app/",
+    "github": "https://github.com/rahulyadav139/palasio-bank",
     "technologies": [
       "ReactJS",
       "Redux",
@@ -44,8 +44,8 @@
       "User-Friendly Interface"
     ],
     "slug": "social-links",
-    "url": "https://nolito.vercel.app/",
-    "github": "https://github.com/your-username/social-links",
+    "url": "https://social-links-green.vercel.app/",
+    "github": "https://github.com/rahulyadav139/social-links",
     "technologies": [
       "ReactJS",
       "Redux",
@@ -70,8 +70,8 @@
       "Easy Integration"
     ],
     "slug": "component-library",
-    "url": "https://synapse.vercel.app/",
-    "github": "https://github.com/your-username/component-library",
+    "url": "https://palasio-designs.netlify.app/",
+    "github": "https://github.com/rahulyadav139/palasio-designs",
     "technologies": ["HTML5", "CSS3", "Responsive Design"]
   },
   {
@@ -90,8 +90,8 @@
       "General Knowledge Quizzes"
     ],
     "slug": "quiz-app",
-    "url": "https://synergies.vercel.app/",
-    "github": "https://github.com/your-username/quiz-app",
+    "url": "https://palasio-quiz-app.vercel.app/",
+    "github": "https://github.com/rahulyadav139/palasio-quiz-app",
     "technologies": [
       "NextJS",
       "MongoDB",
@@ -114,8 +114,8 @@
       "User-Friendly Interface"
     ],
     "slug": "e-commerce-website",
-    "url": "https://palasio-ecommerce.vercel.app/",
-    "github": "https://github.com/your-username/e-commerce-website",
+    "url": "https://palasio-lane.netlify.app/",
+    "github": "https://github.com/rahulyadav139/palasio-lane",
     "technologies": [
       "ReactJS",
       "MongoDB",

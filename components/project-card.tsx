@@ -101,6 +101,7 @@ export const ProjectCard = ({
               highlightedIcon={ArrowUpRight}
               unHighlightedIcon={FiGithub}
               href={project.github}
+              target="_blank"
             />
 
             {project.url && (
@@ -108,6 +109,7 @@ export const ProjectCard = ({
                 highlightedIcon={ArrowUpRight}
                 unHighlightedIcon={TbWorldWww}
                 href={project.url}
+                target="_blank"
               />
             )}
 

@@ -9,6 +9,7 @@ import { X } from 'lucide-react';
 import { Menu } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import Image from 'next/image';
+import profile from '@/data/profile.json';
 
 type MenuItem = {
   id: string;
@@ -26,7 +27,7 @@ const menuItems: MenuItem[] = [
   {
     id: 'resume',
     label: 'Resume',
-    href: 'https://rahuly.short.gy/k9VB84',
+    href: profile.resume,
     props: {
       target: '_blank',
     },
